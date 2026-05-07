@@ -13,4 +13,4 @@ license="GPL-3.0-only"
 homepage="https://github.com/pop-os/cosmic-theme-editor"
 distfiles="https://github.com/pop-os/cosmic-theme-editor/archive/refs/heads/master.tar.gz"
 # Deprecated? Repo archived
-checksum=b321178ab715c800c532a1fc8a228ee303edc0a58442439d94a381ce7a8dc3d9
+checksum=23242b7d0b50f45ab367c609fbdc725cb606797336e7316628b4309cf8008147
