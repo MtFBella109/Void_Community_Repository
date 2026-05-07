@@ -66,5 +66,6 @@ Pick your architecture there and you will see README.
 | vbm | 1.0.1 | https://codeberg.org/oSoWoSo/vbm | zenobit |  |
 | vtm | 2026.05.01 | https://github.com/directvt/vtm | zenobit |  |
 | xdg-desktop-portal-hyprland | 1.3.11 | https://github.com/hyprwm/xdg-desktop-portal-hyprland | zenobit |  |
+| xut | 0.4.2 | https://codeberg.org/mobinmob/xut | mobinmob |  |
 | zen-browser | 1.17.4b | https://www.zen-browser.app/ | Encoded14 | x86_64 aarch64 |
 | zig | 0.14.1 | https://ziglang.org | Orphaned | x86_64* aarch64* |
